@@ -26,20 +26,20 @@ $ python run.py
 ### Few screenshots:
 
 Homepage
-![Homepage](https://github.com/maneeshpm/quizzer/blob/master/examples/1.png?raw=true)
+![Homepage](https://github.com/jahnavikolli/TinyPost/blob/master/examples/1.png?raw=true)
 _____________________________________________________________________________________
 
 User Account
-![Homepage](https://github.com/maneeshpm/quizzer/blob/master/examples/5.png?raw=true)
+![Homepage](https://github.com/jahnavikolli/TinyPost/blob/master/examples/5.png?raw=true)
 _____________________________________________________________________________________
 
 Registration
-![Homepage](https://github.com/maneeshpm/quizzer/blob/master/examples/3.png?raw=true)
+![Homepage](https://github.com/jahnavikolli/TinyPost/blob/master/examples/3.png?raw=true)
 _____________________________________________________________________________________
 
 New Post
-![Homepage](https://github.com/maneeshpm/quizzer/blob/master/examples/2.png?raw=true)
+![Homepage](https://github.com/jahnavikolli/TinyPost/blob/master/examples/2.png?raw=true)
 _____________________________________________________________________________________
 
 Login
-![Homepage](https://github.com/maneeshpm/quizzer/blob/master/examples/4.png?raw=true)
+![Homepage](https://github.com/jahnavikolli/TinyPost/blob/master/examples/4.png?raw=true)
